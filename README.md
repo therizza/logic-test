@@ -1,2 +1,4 @@
-# logic-test
-logic test written in golang
+
+# Test logic 
+
+Logic challenge for 2023 1 challenge per day
